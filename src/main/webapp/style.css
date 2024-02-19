@@ -1,0 +1,44 @@
+@charset "UTF-8";
+img{
+    height: 100vh;
+}
+
+.container-fluid{
+    background-color: #f1f1f1;
+}
+
+.row{
+    align-content: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.col-md-3{
+   border-radius: 6px;
+   height: 48vh;
+   background-color: rgb(130, 231, 28);
+   z-index: 3;
+}
+h3{
+    text-align: center;
+}
+
+label{
+    margin-left: 140px;
+    font-size: 18px;
+}
+input{
+    height: 35px;
+    border-radius: 4px;
+}
+
+a{  
+    text-decoration: none;
+    text-align: center;
+    margin-left: 140px;
+}
+
+.email{
+	margin-left: 150px;
+	
+}
